@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyContactsFiles</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_all_contacts">All Contacts</string>
+    <string name="action_last_contacts">Last Contacts</string>
+    <string name="action_kitten">KittenFix</string>
+
+    <string name="app_name1">Example Animation Image</string>
+    <string name="btn_name_one">Animation 1</string>
+    <string name="btn_name_two">Animation 2</string>
+    <string name="btn_name_three">Animation 3</string>
+
+    <string name="intro">Capture a picture to crop!</string>
+    <string name="picture">Picture</string>
+    <string name="capture">Launch Camera</string>
+
+</resources>
